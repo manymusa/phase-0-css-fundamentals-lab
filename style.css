@@ -2,4 +2,49 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+  
+  
+}
+
+.links {
+  padding: 10px;
+  background: #FF0000;
+    
+}
+
+#caption {
+  font-size: 15px;
+}
+
+#featured-property > p{
+   
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+ 
+} 
+#contacts{
+  float: left;
+  background-color: #FF0000;
+  width: 25%;
+}
+
+#Correspondence{
+  float: left;
+  background-color: #FF0000;
+  width: 25%;
+}
+
+#links{
+  float: left;
+  background-color: #FF0000;
+  width: 25%;
+}
+
+#follow{
+  float: left;
+  background-color: #FF0000;
+  width: 25%;
 }
